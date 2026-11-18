@@ -1,0 +1,6 @@
+# Results written by the scripts in Code/
+Code/output/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/

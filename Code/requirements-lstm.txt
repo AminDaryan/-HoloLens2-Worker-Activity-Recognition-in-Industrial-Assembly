@@ -1,0 +1,4 @@
+# Additionally needed by lstm_classifier.py. The CPU build is enough; see
+# https://pytorch.org/get-started/locally/ for the right command on your system.
+-r requirements.txt
+torch>=2.4
